@@ -45,5 +45,7 @@ public class App
         // TODO It also supports the user defined dictionary. I used that before, but it requires a little more config.
         // TODO basically, the user defined entities in AVA and names like 亚美亚 or similar should be put to custom dictionary.
         // TODO If some words are not parsed correctly we can also put these words to custom dictionary.
+
+        // It also has other features, please let me know if you need anything specific.
     }
 }
